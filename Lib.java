@@ -1,6 +1,6 @@
 /**
  *
- * @author ???
+ * @author Jose Gabriel Gutiérrez Fernández 
  */
 
 public class Lib {
