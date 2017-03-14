@@ -10,7 +10,7 @@ public class Lib {
     }
 
     public void metodoAlumno2(){
-        System.out.println("metodo 2");
+        metodo3();
     }
     public void metodo3(){
         System.out.println("metodo 3");
@@ -18,6 +18,9 @@ public class Lib {
 	
 
     public void metodoComunitario(){
-        System.out.println("Cambio en master");
+
+        System.out.println("Cambio en master y metodo3");
+
+
     }
 }
